@@ -14,9 +14,7 @@
         "src/*",
         "assets/*",
         "firmware/*",
-        "library.json",
-        "README.md",
-        "logo.raw"
+        "library.json"
       ]
   }
 }
