@@ -1,0 +1,12 @@
+{
+    "name": "CoCube-Assets",
+    "version": "1.0.0",
+    "description": "Precompiled mbcode and spiffs binary assets for CoCube.",
+    "keywords": "microblocks, cocube, firmware",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/robot-dreamer/CoCube-Assets"
+    },
+    "frameworks": "*",
+    "platforms": "espressif32"
+  }
