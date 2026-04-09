@@ -1,6 +1,6 @@
 {
     "name": "CoCube-Assets",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Precompiled mbcode and spiffs binary assets for CoCube.",
     "keywords": "microblocks, cocube, firmware",
     "repository": {
